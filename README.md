@@ -116,16 +116,16 @@ REGISTER NUMBER:212223110008
                 </div>
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img src="web 3.jpeg" class="d-block w-100" alt="...">
-                  </div>
-                  <div class="carousel-item">
                     <img src="SEC 1.jpg" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
                     <img src="SEC 2.jpg" class="d-block w-100" alt="...">
                   </div>
-                  <div class="carousel-item active">
+                  <div class="carousel-item">
                     <img src="SEC 3.jpg" class="d-block w-100" alt="...">
+                  </div>
+                  <div class="carousel-item active">
+                    <img src="SEC 4.jpg" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item active">
                     <img src="SEC 4.jpg" class="d-block w-100" alt="...">
