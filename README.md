@@ -38,15 +38,15 @@ REGISTER NUMBER:212223110008
         padding:5px;
       }
       i:hover{
-        color: rgba(30, 6, 246, 0.832);
+        color: rgba(50, 82, 95, 0.285);
       }
     </style>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 </head>
 <body>
-  <div class="row border border-3" >
+  <div class="row border border-3" style="background-color: forestgreen;" >
     <div class="col-5" >
-      <i class="bi bi-whatsapp icon hove"></i>
+      <i class="bi bi-whatsapp icon hover"></i>
       <i class="bi bi-facebook icon hover"></i>
       <i class="bi bi-twitter icon hover"></i>
       <i class="bi bi-linkedin icon hover"></i>
@@ -59,7 +59,7 @@ REGISTER NUMBER:212223110008
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent" >
+          <div class="collapse navbar-collapse" id="navbarSupportedContent" style="background-color: rebeccapurple;">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item ">
                 <a class="nav-link active" aria-current="page " href="#">WEB PROJECT</a>
@@ -91,21 +91,6 @@ REGISTER NUMBER:212223110008
     </div>
   </div>
   <div style="display: flex;">
-        <div style="width: 20%;">
-            <div class="card" style="width: 18rem;">
-                <a href="https://www.saveetha.ac.in"><img src="SEC L.jpg" class="card-img-top" alt="..."></a>
-                <div class="card-body">
-                  <h5 class="card-title">SAVEETHA ENGINEERING COLLEGE</h5>
-                  <p class="card-text">
-                    Approved by the All India Council for Technical Education (AICTE), a statutory body of the Government of India, and also by the Government of Tamil Nadu</p>
-                </div>
-                <ul class="list-group list-group-flush">
-                  <li class="list-group-item"><a href="https://saveetha.ac.in/index.php/admissions/courses-offered">COURSES</a></li>
-                  <li class="list-group-item"><a href="https://www.saveetha.ac.in/index.php/life-at-sec/student-life">LIFE AT SEC</a></li>
-                  <li class="list-group-item"><a href="https://www.saveetha.ac.in/index.php/about/about-sec">ABOUT</a></li>
-                  <li class="list-group-item"><a href="https://www.saveetha.ac.in/index.php/placements/overview">PLACEMENTS</a></li>
-                </ul>
-              </div></div>
         <div style="width: 80%;">
             <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-indicators">
@@ -117,19 +102,19 @@ REGISTER NUMBER:212223110008
                 </div>
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img src="SEC 1.jpg" class="d-block w-100" alt="...">
+                    <img src="SEC 3 (1).jpg" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
-                    <img src="SEC 2.jpg" class="d-block w-100" alt="...">
+                    <img src="SEC 3 (2).jpg" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
-                    <img src="SEC 3.jpg" class="d-block w-100" alt="...">
+                    <img src="SEC 3 (3).jpg" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item active">
-                    <img src="SEC 4.jpg" class="d-block w-100" alt="...">
+                    <img src="SEC 3 (4).jpg" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item active">
-                    <img src="SEC 4.jpg" class="d-block w-100" alt="...">
+                    <img src="SEC 3 (4).jpg" class="d-block w-100" alt="...">
                   </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -142,6 +127,22 @@ REGISTER NUMBER:212223110008
                 </button>
               </div>
         </div>
+        <div style="width: 20%;">
+          <div class="card" style="width: 18rem;">
+              <a href="https://www.saveetha.ac.in"><img src="DEVA.jpeg" class="card-img-top" alt="..."></a>
+              <div class="card-body">
+                <h5 class="card-title">DEVA INSTITUTE OF TECHNOLOGY</h5>
+                <p class="card-text">
+                  Approved by the All India Council for Technical Education (AICTE), a statutory body of the Government of India, and also by the Government of Tamil Nadu</p>
+              </div>
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item"><a href="https://saveetha.ac.in/index.php/admissions/courses-offered">COURSES</a></li>
+                <li class="list-group-item"><a href="https://www.saveetha.ac.in/index.php/life-at-sec/student-life">LIFE AT SEC</a></li>
+                <li class="list-group-item"><a href="https://www.saveetha.ac.in/index.php/about/about-sec">ABOUT</a></li>
+                <li class="list-group-item"><a href="https://www.saveetha.ac.in/index.php/placements/overview">PLACEMENTS</a></li>
+              </ul>
+            </div></div>
+      
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
