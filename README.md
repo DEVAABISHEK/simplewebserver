@@ -150,7 +150,9 @@ REGISTER NUMBER:212223110008
 
 
 ## OUTPUT:
+```
+![image](https://github.com/DEVAABISHEK/simplewebserver/assets/150319305/cdf1c1ab-2a19-4c9f-911c-0fa3dc8e3752)
 
-
+```
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
